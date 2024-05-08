@@ -23,9 +23,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 1440px;
     min-width: 375px;
-
     background-color: var(--yellow);
 }
 
