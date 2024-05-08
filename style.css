@@ -76,7 +76,7 @@ body {
 }
 
 .conteudo p {
-    color: rgb(177, 177, 177);
+    color: var(--grey);
 }
 
 .autor {
